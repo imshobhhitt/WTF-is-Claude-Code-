@@ -1,0 +1,2 @@
+- [User identity and role](user_role.md) — Krish Naik, AI/ML educator; bootcamp teaching material on LangChain 1.x
+- [LiteLLM callback pitfall](litellm_callback_pitfall.md) — input_callback swallows exceptions; never use it for blocking guardrails

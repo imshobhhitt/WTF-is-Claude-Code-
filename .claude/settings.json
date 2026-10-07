@@ -1,0 +1,33 @@
+{
+  "worktree": {
+    "bgIsolation": "none"
+  },
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+    "hooks": {
+      "Notification": [
+        {
+          "matcher": "",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"E:/agenticAI/langchainupdated/.claude/notify.ps1\""
+            }
+          ]
+        }
+      ],
+      "PostToolUse": [
+        {
+          "matcher": "*",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "bash \"E:/agenticAI/langchainupdated/.claude/posttool.sh\""
+            }
+          ]
+        }
+      ]
+    }
+  
+}

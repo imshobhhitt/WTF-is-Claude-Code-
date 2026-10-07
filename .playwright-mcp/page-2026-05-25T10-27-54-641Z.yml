@@ -1,0 +1,1298 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - button "Guide" [active] [ref=e9] [cursor=pointer]:
+            - generic [ref=e12]:
+              - img
+          - generic [ref=e13]:
+            - link "YouTube Home" [ref=e14] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e19]:
+                - img
+            - generic [ref=e20]: IN
+          - button "Skip navigation" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25]: Skip navigation
+        - generic [ref=e29]:
+          - search [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - combobox "Search" [expanded] [ref=e34]: Krish Naik
+                - button "Clear search query" [ref=e112] [cursor=pointer]:
+                  - generic [ref=e115]:
+                    - img
+              - button "Search" [ref=e35] [cursor=pointer]:
+                - generic [ref=e38]:
+                  - img
+          - generic [ref=e40]:
+            - button "Search with your voice" [ref=e42] [cursor=pointer]:
+              - generic [ref=e119]:
+                - img
+            - tooltip "tooltip"
+        - generic [ref=e51]:
+          - button "Settings" [ref=e56] [cursor=pointer]:
+            - generic [ref=e59]:
+              - img
+          - link "Sign in" [ref=e62] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DKrish%252BNaik&hl=en&ec=65620
+            - generic [ref=e120]:
+              - img
+            - generic [ref=e67]: Sign in
+    - navigation [ref=e71]:
+      - generic [ref=e72]:
+        - link "Home" [ref=e74] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e121]:
+            - img
+          - generic [ref=e78]: Home
+        - link "Shorts" [ref=e80] [cursor=pointer]:
+          - /url: /shorts/
+          - generic [ref=e83]:
+            - img
+          - generic [ref=e84]: Shorts
+        - link "Subscriptions" [ref=e86] [cursor=pointer]:
+          - /url: /feed/subscriptions
+          - generic [ref=e89]:
+            - img
+          - generic [ref=e90]: Subscriptions
+        - link "You" [ref=e92] [cursor=pointer]:
+          - /url: /feed/you
+          - generic [ref=e95]:
+            - img
+          - generic [ref=e96]: You
+    - generic [ref=e97]:
+      - text: •
+      - main [ref=e122]:
+        - generic [ref=e123]:
+          - generic [ref=e125]:
+            - tablist [ref=e130]:
+              - tab "All" [selected] [ref=e134] [cursor=pointer]:
+                - generic [ref=e136]: All
+              - tab "Shorts" [ref=e143] [cursor=pointer]:
+                - generic [ref=e145]: Shorts
+              - tab "Unwatched" [ref=e152] [cursor=pointer]:
+                - generic [ref=e154]: Unwatched
+              - tab "Watched" [ref=e161] [cursor=pointer]:
+                - generic [ref=e163]: Watched
+              - tab "Videos" [ref=e170] [cursor=pointer]:
+                - generic [ref=e172]: Videos
+              - tab "Recently uploaded" [ref=e179] [cursor=pointer]:
+                - generic [ref=e181]: Recently uploaded
+              - tab "Live" [ref=e188] [cursor=pointer]:
+                - generic [ref=e190]: Live
+            - generic [ref=e195]:
+              - button "Search filters" [ref=e197] [cursor=pointer]:
+                - generic [ref=e198]: Filters
+              - tooltip "tooltip"
+          - generic [ref=e207]:
+            - generic [ref=e209]:
+              - generic [ref=e218] [cursor=pointer]:
+                - link [ref=e219]:
+                  - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7nMcJyQUaou-OIOSz7sP1L6gkQyd786ihwGZjtrc2RWwkB8QASAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoEvgJP0AvyeLOMKN929lKXG2z4dE2NuyUjPcVsbIxIuuc1LPdrmvF0Qawlu9CptI7qsrMuwQuPpzs8cszjbfYE0OXUyc4LLFI83Vxb6mEQq5YXCNg0ksJhXXjqHD0TDHKYaSYetLMjNfjh9vxoKkeRAlPlDOzfeXwxi9x8pejlJ5Wdg11BNIlcKmsIt-BZdeiCLtoPAW4kEoQj-ln8i34339XD2TbPuMWcAhPM0zbLr4jGP666lXQ0VsHFbilQlNjdcUYDS_j-q0UIGCnnabIGXpErrL9PoE0DttA4Um4p12m1XdGVFPGUNcqAXj2Obl_UbpztldcqQAepKXlTbAKn-dLpwQ_V_NONQmabKsXGyB4XnlooRUFWJX42ZHH1BgJTonuGvy6gFMJiTeKsQ1KD0N4bMwLrZSXQ3ECtJZ8upVGIBc36-8FYkgUICBN4i4Dw4AKgBqEBgAfdnfXfApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLeWpCQmNXTS1ZTDioCAGwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkwaHR0cHM6Ly9maXJlZmx5LmFkb2JlLmNvbS9nZW5lcmF0ZS9zb3VuZC1lZmZlY3RzsQlVvM7C1m99gMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMCc2nQCxLgCwHSDAIQAdoMJQoKEPCpraWuxc7xXhICAQMaDRjN-vvBWCD91Zm70gVAAUoCEB-aDQESqg0CSU7IDQHSDYQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJemZyN3dWaW9Bb3VBOE9BQ3NBTE50X1BwQTBBN0VKZm51Z0gzV3lxb1FxSHRVVmZ4RjV4eXNpVzU7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDeFpUMm8ydXlLNk1Uczd2MXBvRl9kQUhhNWFyaG5CdEhwU21TRTJ3UWRNb2NVNGk0Ty1JcFVWQkVWOThsdnJiNkRKWkYwVGFoY1VERjMzQTtkY19wdWJpZD02P2h0dHBzOi8vZmlyZWZseS5hZG9iZS5jb20vZ2VuZXJhdGUvc291bmQtZWZmZWN0cz9zZGlkPTMyMlRCSlJZJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWUmZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWWwE4iugiK4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwoIASgBMAA4AUgB0BgB8BgBgBkD&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYASAAEgKW_vD_BwE&num=1&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&ad_cpn=%5BCPN%5D&sig=AOD64_2QRiQ44JSAnaARhiYyDPqa0JjT3w&ctype=110&video_id=yjBBcWM-YL8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - button [ref=e224]
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - link "Amp up the quality of every clip with captivating sounds." [ref=e235]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7nMcJyQUaou-OIOSz7sP1L6gkQyd786ihwGZjtrc2RWwkB8QASAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoEvgJP0AvyeLOMKN929lKXG2z4dE2NuyUjPcVsbIxIuuc1LPdrmvF0Qawlu9CptI7qsrMuwQuPpzs8cszjbfYE0OXUyc4LLFI83Vxb6mEQq5YXCNg0ksJhXXjqHD0TDHKYaSYetLMjNfjh9vxoKkeRAlPlDOzfeXwxi9x8pejlJ5Wdg11BNIlcKmsIt-BZdeiCLtoPAW4kEoQj-ln8i34339XD2TbPuMWcAhPM0zbLr4jGP666lXQ0VsHFbilQlNjdcUYDS_j-q0UIGCnnabIGXpErrL9PoE0DttA4Um4p12m1XdGVFPGUNcqAXj2Obl_UbpztldcqQAepKXlTbAKn-dLpwQ_V_NONQmabKsXGyB4XnlooRUFWJX42ZHH1BgJTonuGvy6gFMJiTeKsQ1KD0N4bMwLrZSXQ3ECtJZ8upVGIBc36-8FYkgUICBN4i4Dw4AKgBqEBgAfdnfXfApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLeWpCQmNXTS1ZTDioCAGwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkwaHR0cHM6Ly9maXJlZmx5LmFkb2JlLmNvbS9nZW5lcmF0ZS9zb3VuZC1lZmZlY3RzsQlVvM7C1m99gMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMCc2nQCxLgCwHSDAIQAdoMJQoKEPCpraWuxc7xXhICAQMaDRjN-vvBWCD91Zm70gVAAUoCEB-aDQESqg0CSU7IDQHSDYQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJemZyN3dWaW9Bb3VBOE9BQ3NBTE50X1BwQTBBN0VKZm51Z0gzV3lxb1FxSHRVVmZ4RjV4eXNpVzU7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDeFpUMm8ydXlLNk1Uczd2MXBvRl9kQUhhNWFyaG5CdEhwU21TRTJ3UWRNb2NVNGk0Ty1JcFVWQkVWOThsdnJiNkRKWkYwVGFoY1VERjMzQTtkY19wdWJpZD02P2h0dHBzOi8vZmlyZWZseS5hZG9iZS5jb20vZ2VuZXJhdGUvc291bmQtZWZmZWN0cz9zZGlkPTMyMlRCSlJZJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWUmZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWWwE4iugiK4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwoIASgBMAA4AUgB0BgB8BgBgBkD&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYASAAEgKW_vD_BwE&num=1&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&ad_cpn=%5BCPN%5D&sig=AOD64_2QRiQ44JSAnaARhiYyDPqa0JjT3w&ctype=110&video_id=yjBBcWM-YL8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                      - link "Easily generate sound effects in Firefly." [ref=e238]:
+                        - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7nMcJyQUaou-OIOSz7sP1L6gkQyd786ihwGZjtrc2RWwkB8QASAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoEvgJP0AvyeLOMKN929lKXG2z4dE2NuyUjPcVsbIxIuuc1LPdrmvF0Qawlu9CptI7qsrMuwQuPpzs8cszjbfYE0OXUyc4LLFI83Vxb6mEQq5YXCNg0ksJhXXjqHD0TDHKYaSYetLMjNfjh9vxoKkeRAlPlDOzfeXwxi9x8pejlJ5Wdg11BNIlcKmsIt-BZdeiCLtoPAW4kEoQj-ln8i34339XD2TbPuMWcAhPM0zbLr4jGP666lXQ0VsHFbilQlNjdcUYDS_j-q0UIGCnnabIGXpErrL9PoE0DttA4Um4p12m1XdGVFPGUNcqAXj2Obl_UbpztldcqQAepKXlTbAKn-dLpwQ_V_NONQmabKsXGyB4XnlooRUFWJX42ZHH1BgJTonuGvy6gFMJiTeKsQ1KD0N4bMwLrZSXQ3ECtJZ8upVGIBc36-8FYkgUICBN4i4Dw4AKgBqEBgAfdnfXfApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLeWpCQmNXTS1ZTDioCAGwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkwaHR0cHM6Ly9maXJlZmx5LmFkb2JlLmNvbS9nZW5lcmF0ZS9zb3VuZC1lZmZlY3RzsQlVvM7C1m99gMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMCc2nQCxLgCwHSDAIQAdoMJQoKEPCpraWuxc7xXhICAQMaDRjN-vvBWCD91Zm70gVAAUoCEB-aDQESqg0CSU7IDQHSDYQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJemZyN3dWaW9Bb3VBOE9BQ3NBTE50X1BwQTBBN0VKZm51Z0gzV3lxb1FxSHRVVmZ4RjV4eXNpVzU7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDeFpUMm8ydXlLNk1Uczd2MXBvRl9kQUhhNWFyaG5CdEhwU21TRTJ3UWRNb2NVNGk0Ty1JcFVWQkVWOThsdnJiNkRKWkYwVGFoY1VERjMzQTtkY19wdWJpZD02P2h0dHBzOi8vZmlyZWZseS5hZG9iZS5jb20vZ2VuZXJhdGUvc291bmQtZWZmZWN0cz9zZGlkPTMyMlRCSlJZJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWUmZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWWwE4iugiK4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwoIASgBMAA4AUgB0BgB8BgBgBkD&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYASAAEgKW_vD_BwE&num=1&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&ad_cpn=%5BCPN%5D&sig=AOD64_2QRiQ44JSAnaARhiYyDPqa0JjT3w&ctype=110&video_id=yjBBcWM-YL8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                      - generic [ref=e239]:
+                        - button "Adobe Creative Cloud Media" [ref=e243]
+                        - generic [ref=e247]:
+                          - generic [ref=e248]: Sponsored
+                          - text: ·
+                        - generic [ref=e250]: Adobe
+                    - button "My Ad Center" [ref=e253]:
+                      - generic [ref=e257]:
+                        - img
+                  - generic [ref=e263]:
+                    - link "Watch" [ref=e266]:
+                      - /url: /watch?v=yjBBcWM-YL8
+                      - generic [ref=e267]: Watch
+                    - link "Learn more" [ref=e273]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7nMcJyQUaou-OIOSz7sP1L6gkQyd786ihwGZjtrc2RWwkB8QASAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoEvgJP0AvyeLOMKN929lKXG2z4dE2NuyUjPcVsbIxIuuc1LPdrmvF0Qawlu9CptI7qsrMuwQuPpzs8cszjbfYE0OXUyc4LLFI83Vxb6mEQq5YXCNg0ksJhXXjqHD0TDHKYaSYetLMjNfjh9vxoKkeRAlPlDOzfeXwxi9x8pejlJ5Wdg11BNIlcKmsIt-BZdeiCLtoPAW4kEoQj-ln8i34339XD2TbPuMWcAhPM0zbLr4jGP666lXQ0VsHFbilQlNjdcUYDS_j-q0UIGCnnabIGXpErrL9PoE0DttA4Um4p12m1XdGVFPGUNcqAXj2Obl_UbpztldcqQAepKXlTbAKn-dLpwQ_V_NONQmabKsXGyB4XnlooRUFWJX42ZHH1BgJTonuGvy6gFMJiTeKsQ1KD0N4bMwLrZSXQ3ECtJZ8upVGIBc36-8FYkgUICBN4i4Dw4AKgBqEBgAfdnfXfApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLeWpCQmNXTS1ZTDioCAGwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkwaHR0cHM6Ly9maXJlZmx5LmFkb2JlLmNvbS9nZW5lcmF0ZS9zb3VuZC1lZmZlY3RzsQlVvM7C1m99gMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMCc2nQCxLgCwHSDAIQAdoMJQoKEPCpraWuxc7xXhICAQMaDRjN-vvBWCD91Zm70gVAAUoCEB-aDQESqg0CSU7IDQHSDYQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJemZyN3dWaW9Bb3VBOE9BQ3NBTE50X1BwQTBBN0VKZm51Z0gzV3lxb1FxSHRVVmZ4RjV4eXNpVzU7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDeFpUMm8ydXlLNk1Uczd2MXBvRl9kQUhhNWFyaG5CdEhwU21TRTJ3UWRNb2NVNGk0Ty1JcFVWQkVWOThsdnJiNkRKWkYwVGFoY1VERjMzQTtkY19wdWJpZD02P2h0dHBzOi8vZmlyZWZseS5hZG9iZS5jb20vZ2VuZXJhdGUvc291bmQtZWZmZWN0cz9zZGlkPTMyMlRCSlJZJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWUmZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWWwE4iugiK4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwoIASgBMAA4AUgB0BgB8BgBgBkD&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYASAAEgKW_vD_BwE&num=1&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&ad_cpn=%5BCPN%5D&sig=AOD64_2QRiQ44JSAnaARhiYyDPqa0JjT3w&ctype=110&video_id=yjBBcWM-YL8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                      - generic [ref=e274]: Learn more
+              - generic [ref=e279]:
+                - link [ref=e281] [cursor=pointer]:
+                  - /url: /@krishnaik06
+                - generic [ref=e284]:
+                  - link "Krish Naik Verified @krishnaik06•1.42M subscribers I am the Founder of KrishAI Technologies Private Limited and my experience is pioneering in machine learning, deep learning, ..." [ref=e285] [cursor=pointer]:
+                    - /url: /@krishnaik06
+                    - generic [ref=e286]:
+                      - generic [ref=e287]:
+                        - generic [ref=e290]: Krish Naik
+                        - img "Verified" [ref=e295]
+                      - generic [ref=e297]: "@krishnaik06•1.42M subscribers"
+                      - generic [ref=e298]: I am the Founder of KrishAI Technologies Private Limited and my experience is pioneering in machine learning, deep learning, ...
+                  - link "Subscribe" [ref=e303] [cursor=pointer]:
+                    - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253DKrish%252BNaik%26continue_action%3DQUFFLUhqbW1UV1JscF9Hd3h5QTNLZzZ0UEpxR1FrRG9oUXxBQ3Jtc0ttckk2MXNseUdlVTFJVVMzTktBY3BkcUJEMG9hNWNuRWViV2lROExBM1N3TnFpeGdkandFY1BlYnNxM25hNC1nVlQ0b3R4ZFdxeWdKV0VqcGJJcEJVcTFSVDgtWlFacnYtQzRrdzQxV1VEdldvTjVYV2dmRGY5bFNEUWw4NWJxU0xtV2lyaXBucVFkcHlybGU4bTZhT1cyWlNNNkgweHFHVkw2U1dVV0ZXVlJuQWhwTW82MUhuNE9OU2NyQnE3ekZ4YkR1TXk&hl=en
+                    - generic [ref=e304]: Subscribe
+              - generic [ref=e309]:
+                - heading "Latest from Krish Naik" [level=2] [ref=e312]:
+                  - generic [ref=e314]: Latest from Krish Naik
+                - generic [ref=e316]:
+                  - generic [ref=e317]:
+                    - generic [ref=e319]:
+                      - link [ref=e321] [cursor=pointer]:
+                        - /url: /watch?v=rV3HJ4LEZ7k&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - img [ref=e323]
+                        - img [ref=e326]:
+                          - generic [ref=e327]: 11:13:26
+                        - generic:
+                          - generic: Now playing
+                          - generic:
+                            - img
+                      - generic [ref=e328] [cursor=pointer]:
+                        - generic [ref=e329]:
+                          - generic [ref=e330]:
+                            - heading "Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals 11 hours, 13 minutes" [level=3] [ref=e331]:
+                              - link "Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals 11 hours, 13 minutes" [ref=e332]:
+                                - /url: /watch?v=rV3HJ4LEZ7k&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                                - text: Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals
+                            - button "Action menu" [ref=e336]:
+                              - generic [ref=e339]:
+                                - img
+                          - generic [ref=e342]:
+                            - generic [ref=e343]: 96K views
+                            - generic [ref=e344]: •3 days ago
+                        - generic [ref=e345]:
+                          - link "Go to channel Krish Naik" [ref=e346]:
+                            - /url: /@krishnaik06
+                          - generic [ref=e348]:
+                            - link "Krish Naik" [ref=e352]:
+                              - /url: /@krishnaik06
+                            - img "Verified" [ref=e357]
+                        - generic [ref=e359]:
+                          - text: This is a complete course on learning Generative ai and agentic with Langchain and Langgraph. We have included all the topics ...
+                          - tooltip "tooltip"
+                        - img "New" [ref=e364]:
+                          - generic [ref=e365]: New
+                        - generic [ref=e368]:
+                          - generic [ref=e369]:
+                            - generic [ref=e373]: 9 chapters
+                            - button "Introduction | Langchain Course | Langraph Course | RAG Course | Vectorless RAG | Deep Agents | Guardrails | LLM Evaluation | LLM Gateways" [ref=e374]
+                          - button "More" [ref=e379]:
+                            - generic [ref=e383]:
+                              - img
+                    - generic [ref=e388]:
+                      - link [ref=e390] [cursor=pointer]:
+                        - /url: /watch?v=RN3baOpNA6w&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                        - img [ref=e392]
+                        - img [ref=e395]:
+                          - generic [ref=e396]: 43:29
+                        - generic:
+                          - generic: Now playing
+                          - generic:
+                            - img
+                      - generic [ref=e397] [cursor=pointer]:
+                        - generic [ref=e398]:
+                          - generic [ref=e399]:
+                            - heading "What Are LLM Gateways With Detailed Implementation 43 minutes" [level=3] [ref=e400]:
+                              - link "What Are LLM Gateways With Detailed Implementation 43 minutes" [ref=e401]:
+                                - /url: /watch?v=RN3baOpNA6w&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                                - text: What Are LLM Gateways With Detailed Implementation
+                            - button "Action menu" [ref=e405]:
+                              - generic [ref=e408]:
+                                - img
+                          - generic [ref=e411]:
+                            - generic [ref=e412]: 17K views
+                            - generic [ref=e413]: •5 days ago
+                        - generic [ref=e414]:
+                          - link "Go to channel Krish Naik" [ref=e415]:
+                            - /url: /@krishnaik06
+                          - generic [ref=e417]:
+                            - link "Krish Naik" [ref=e421]:
+                              - /url: /@krishnaik06
+                            - img "Verified" [ref=e426]
+                        - generic [ref=e428]:
+                          - text: "github: https://github.com/krishnaik06/Langchain-V1-Crash-Course/blob/main/llm_gateway_tutorial.ipynb Check out BetterDB: ..."
+                          - tooltip "tooltip"
+                        - img "New" [ref=e433]:
+                          - generic [ref=e434]: New
+                        - generic [ref=e437]:
+                          - generic [ref=e438]:
+                            - generic [ref=e442]: 12 chapters
+                            - button "Introduction | LLM Gateways | LLM Gateways Core Capabilities | LLM Gateways Implementation | Simplest LiteLLM Example | Automatic Fallbacks Impleemntation | Cost Tracking With LLM Gateways | Caching With LLM Gateways | Load Balancing Across LLM Providers | Integrating Gateway With Langchain | Smart Router LLM Gateway | Guardrails LLM Gateways" [ref=e443]
+                          - button "More" [ref=e448]:
+                            - generic [ref=e452]:
+                              - img
+                  - generic "+8 more" [ref=e457] [cursor=pointer]
+            - generic [ref=e464]:
+              - img [ref=e470]
+              - generic [ref=e472] [cursor=pointer]:
+                - generic [ref=e473]:
+                  - link "Krish Naik | Chief AI Engineer | Udemy - Learn from Chief AI Engineer" [ref=e476]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiTg_GlndSUAxUkqmYCHXU4BSQYACICCAEQAxoCc20&co=1&ase=2&gclid=EAIaIQobChMIk4PxpZ3UlAMVJKpmAh11OAUkEAEYASAAEgKQWfD_BwE&num=1&cid=CAAS0wHkaGiVxCLSkxo3Eqvg-9Db9XkieesTz9SrEzb4qnTSRO9wl2nqoIazfDHYQVYBuo-zVy1Mljtp1r2mm7HYr0S-sHfROCd8tKjjU4MLTVaxjsntieHy1mCqiPc45nSK2D9lGEY3XEXc7rqqjjtONSQSz7UetaYd82VmBT9_AIOyZaUlxPyaMvSer9B9ulFwptrMMZb1IBIXvWGXJDd1PH3-2ldCN55cFEwZxbFIP6OieMwqygrqo3iVi_tQxmGRJCnU9jL5KD1BYDFP7iqFSrf66fhG&cce=2&category=acrcp_v1_32&sig=AOD64_16_kdlzFhQSjJNQNLToEob6VrAjw&adurl=https://www.udemy.com/user/krish-naik/%3Futm_campaign%3DSearch_Keyword_Beta_Prof_la.DE_cc.ROW-German%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DROW-German%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_164224352319_._ad_706341881954_._kw_online%2520machine%2520learning%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21485730605&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+                  - link "Krish Naik is a Udemy instructor with educational courses available for enrollment. ChatGPT Lernen. Verbessere deine Skills." [ref=e479]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiTg_GlndSUAxUkqmYCHXU4BSQYACICCAEQAxoCc20&co=1&ase=2&gclid=EAIaIQobChMIk4PxpZ3UlAMVJKpmAh11OAUkEAEYASAAEgKQWfD_BwE&num=1&cid=CAAS0wHkaGiVxCLSkxo3Eqvg-9Db9XkieesTz9SrEzb4qnTSRO9wl2nqoIazfDHYQVYBuo-zVy1Mljtp1r2mm7HYr0S-sHfROCd8tKjjU4MLTVaxjsntieHy1mCqiPc45nSK2D9lGEY3XEXc7rqqjjtONSQSz7UetaYd82VmBT9_AIOyZaUlxPyaMvSer9B9ulFwptrMMZb1IBIXvWGXJDd1PH3-2ldCN55cFEwZxbFIP6OieMwqygrqo3iVi_tQxmGRJCnU9jL5KD1BYDFP7iqFSrf66fhG&cce=2&category=acrcp_v1_32&sig=AOD64_16_kdlzFhQSjJNQNLToEob6VrAjw&adurl=https://www.udemy.com/user/krish-naik/%3Futm_campaign%3DSearch_Keyword_Beta_Prof_la.DE_cc.ROW-German%26utm_source%3Dgoogle%26utm_medium%3Dpaid-search%26portfolio%3DROW-German%26utm_audience%3Dmx%26utm_tactic%3Dnb%26utm_term%3D_._ag_164224352319_._ad_706341881954_._kw_online%2520machine%2520learning%26utm_content%3Ds%26funnel%3D%26test%3D%26gad_source%3D2%26gad_campaignid%3D21485730605&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=7
+                  - generic [ref=e480]:
+                    - generic [ref=e482]:
+                      - generic [ref=e483]: Sponsored
+                      - text: ·
+                    - generic [ref=e485]: https://www.udemy.com/
+                - button "My Ad Center" [ref=e488]:
+                  - generic [ref=e492]:
+                    - img
+            - generic [ref=e497]:
+              - generic [ref=e499]:
+                - heading "Latest posts from Krish Naik" [level=2] [ref=e502]:
+                  - generic [ref=e504]: Latest posts from Krish Naik
+                - generic [ref=e506]:
+                  - generic [ref=e509]:
+                    - link [ref=e511] [cursor=pointer]:
+                      - generic [ref=e512]:
+                        - link [ref=e514]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e517]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e518]: •
+                        - link "2 days ago" [ref=e520]:
+                          - /url: /post/Ugkx0YSXSbc-oisvkmtDWFiIgP6Iy22KGEPs
+                      - generic [ref=e521]:
+                        - generic [ref=e523]:
+                          - text: If you want to understand about AI agents and want to build AI agents from basics and build to scale then we at KRISHAI Technologies Private Limited are bring this amazing webinar on AI agents today. Agenda:- Agentic Ai Basics Masterclass Time:- 8:30 Pm Date:- Today 22nd May 2026 If you are looking to start learning Agentic Ai this is the best free resource for you where we deep dive into the core fundamentals of Agentic ai such as -Core Architecture where we discuss how the LLM acts as the brain using long term and short term memory -Exploring popular frameworks -Important Toolkits such as RAG & MCP Do not miss this Masterclass as the sessions wont be recorded, so ensure to attend it live and add great skills to your portfolio. See you all in the class. Register to Join:-
+                          - link "https://us06web.zoom.us/webinar/regis..." [ref=e524]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbVNqNmlnMGxfSHE0NThrOHRBakEwWUp2emxPUXxBQ3Jtc0tuTXRmcWxzV3pfZ2tyRW12YmdiTERqY3ZpLUtCMW1FR2pmZzZzWGV6alE3TVhad19ZNGFuMk0taS1KcDlMeXFaQmEyMlFIUE9ZV2Rob2R5Q3FTLTZuYS1JdnFfT1BfcXI4Qld3d05pcEFrU1g0YU04WQ&q=https%3A%2F%2Fus06web.zoom.us%2Fwebinar%2Fregister%2F7017793485309%2FWN_NLQEnWGsQCCBOc8OyAnPNw
+                        - generic [ref=e525]:
+                          - group
+                      - generic [ref=e531]:
+                        - generic [ref=e532]:
+                          - link "Like this post along with 246 other people" [ref=e534]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e538]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "246 likes" [ref=e542]: "246"
+                        - generic [ref=e543]:
+                          - link "Dislike this post" [ref=e545]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e549]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e554]:
+                          - button "Share" [ref=e556]:
+                            - generic [ref=e560]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e565]:
+                          - link "7 comments" [ref=e567]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkx0YSXSbc-oisvkmtDWFiIgP6Iy22KGEPs&hl=en
+                            - generic [ref=e571]:
+                              - img
+                            - generic [ref=e572]: "7"
+                          - tooltip "tooltip"
+                    - link [ref=e577] [cursor=pointer]:
+                      - generic [ref=e578]:
+                        - link [ref=e580]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e583]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e584]: •
+                        - link "3 days ago" [ref=e586]:
+                          - /url: /post/UgkxorK8lIqkO1-hnVCdJBGqugnszrCQsUAB
+                      - generic [ref=e587]:
+                        - generic [ref=e589]:
+                          - text: "Hello everyone! If you've been following my recent deep dives into building Agentic AI and robust MLOps pipelines, you know how crucial scalable cloud infrastructure is for taking those models from local environments to production. That’s why I am thrilled to partner with Amazon Web Services (AWS) to invite you to the AWS Summit India Online on June 3rd 2026! This is a completely free virtual event designed for builders and developers looking to level up their skills. The flexible virtual format lets you learn at your own pace, from anywhere. Here is what you can explore: • 50+ Expert-led Sessions: Covering the latest technologies, strategies, and best practices for builders. • Cutting-Edge Tech: Discover how technologies from agentic AI to serverless computing are empowering businesses. • Real-World Applications: See exactly how companies use data and AI to solve complex technical challenges. • Direct Access: Engage directly through Live Q&A with AWS Experts. As educators and lifelong learners, getting hands-on with architectural deep dives is how we gain the technical expertise needed to drive innovation. Register for free and let's keep building:"
+                          - link "https://bit.ly/4tz3SZt" [ref=e590]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbDdKbUdpQllxajUxeHgwd294OHEzZGo0TVFzUXxBQ3Jtc0tsZWtQUlNnYy1BUVRlV0V2eFZYSHF0MmZRNHE5YlEtWjBFSkthVjhtTU5xZ1Z4S211RkR6MXZ2c0luazdOM29hdENmVEJoQUpNeDNMam5QTlYxOUdUV3RjXzJ6ckh0YjU2NGtSUFBEdjVqYU11MWVvSQ&q=https%3A%2F%2Fbit.ly%2F4tz3SZt
+                        - generic:
+                          - group
+                      - generic [ref=e593]:
+                        - generic [ref=e594]:
+                          - link "Like this post along with 171 other people" [ref=e596]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e600]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "171 likes" [ref=e604]: "171"
+                        - generic [ref=e605]:
+                          - link "Dislike this post" [ref=e607]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e611]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e616]:
+                          - button "Share" [ref=e618]:
+                            - generic [ref=e622]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e627]:
+                          - link "4 comments" [ref=e629]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxorK8lIqkO1-hnVCdJBGqugnszrCQsUAB&hl=en
+                            - generic [ref=e633]:
+                              - img
+                            - generic [ref=e634]: "4"
+                          - tooltip "tooltip"
+                    - 'link "Krish Naik • 5 days ago Super excited to launch our new most requested Bootcamp 3.0 Agentic AI Specialization with AgentOps Check out the enrollment link : https://www.krishnaik.in/liveclass2/A... 📞 Have questions or need guidance? Reach out to Krish Naik''s counselling team: +91 91115 33440 +91 84848 37781 Detailed Syllabus : https://agenticai3.lovable.app/ Like this post along with 256 other people tooltip 256 likes Dislike this post tooltip Share tooltip 10 comments tooltip" [ref=e639] [cursor=pointer]':
+                      - generic [ref=e640]:
+                        - link [ref=e642]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e645]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e646]: •
+                        - link "5 days ago" [ref=e648]:
+                          - /url: /post/UgkxvJFoiwrGAdJW_omVxjY7bCDn5CEVhCXu
+                      - generic [ref=e649]:
+                        - generic [ref=e651]:
+                          - text: "Super excited to launch our new most requested Bootcamp 3.0 Agentic AI Specialization with AgentOps Check out the enrollment link :"
+                          - link "https://www.krishnaik.in/liveclass2/A..." [ref=e652]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbFZVT2VOMFYtd0NZdEl4NXFHbTNzaFBVVU5zZ3xBQ3Jtc0trR0dZdHRibFlkdmxpQTNsTkVvcVRVWDEtbWttd1RRdDRvdFYweHpraVlQaWJlelh5TU5UNS04YWZ0cnFVa2F0LTVERU1uQzJXOFNrcHZfOE51VER4WWFqdC1xSzRCNEFneV9oZGxqcUZIZ3FRMElyMA&q=https%3A%2F%2Fwww.krishnaik.in%2Fliveclass2%2FAgenticAi%3Fid%3D11
+                          - text: "📞 Have questions or need guidance? Reach out to Krish Naik's counselling team: +91 91115 33440 +91 84848 37781 Detailed Syllabus :"
+                          - link "https://agenticai3.lovable.app/" [ref=e653]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbDM2bHh1RlFtUU10UG5TeGluZExqY3ZpOUc3UXxBQ3Jtc0tra0FoWmV6bGFra0h3V19iMmNuZTAwYURUZ0lYdy1kdXlKeUQyalp5YTIzYVVYVGd6bzVYQnAxQ3VwWTg0S0xUYXZONVByd3BMM0I4M2daOVMyMFpZNVpBdi1BSDVWUUZfZWpZRDlLTWpwcXd5UHJuTQ&q=https%3A%2F%2Fagenticai3.lovable.app%2F
+                        - generic [ref=e654]:
+                          - group
+                      - generic [ref=e660]:
+                        - generic [ref=e661]:
+                          - link "Like this post along with 256 other people" [ref=e663]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e667]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "256 likes" [ref=e671]: "256"
+                        - generic [ref=e672]:
+                          - link "Dislike this post" [ref=e674]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e678]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e683]:
+                          - button "Share" [ref=e685]:
+                            - generic [ref=e689]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e694]:
+                          - link "10 comments" [ref=e696]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxvJFoiwrGAdJW_omVxjY7bCDn5CEVhCXu&hl=en
+                            - generic [ref=e700]:
+                              - img
+                            - generic [ref=e701]: "10"
+                          - tooltip "tooltip"
+                    - 'link "Krish Naik • 9 days ago Final Call.Last 2 days left to launch our new bootcamp Modern RouteNo-Code AI Route -AI Generalist to AI Builder Bootcamp starting from May 17th 2026 This batch is suitable for anyone who wants to quickly into GenAI and Agentic AI without any coding Knowledge. Enrollment Link: https://www.krishnaik.in/liveclass2/n... Reshare this to all your friends and colleagues :) 📞 Have questions or need guidance? Reach out to Krish Naik''s counselling team: +91 91115 33440 +91 84848 37781 Like this post along with 94 other people tooltip 94 likes Dislike this post tooltip Share tooltip 1 comment tooltip" [ref=e706] [cursor=pointer]':
+                      - generic [ref=e707]:
+                        - link [ref=e709]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e712]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e713]: •
+                        - link "9 days ago" [ref=e715]:
+                          - /url: /post/Ugkxlz6ql6lsZiXNIGxy35pHZzBExI7AFoSR
+                      - generic [ref=e716]:
+                        - generic [ref=e718]:
+                          - text: "Final Call.Last 2 days left to launch our new bootcamp Modern RouteNo-Code AI Route -AI Generalist to AI Builder Bootcamp starting from May 17th 2026 This batch is suitable for anyone who wants to quickly into GenAI and Agentic AI without any coding Knowledge. Enrollment Link:"
+                          - link "https://www.krishnaik.in/liveclass2/n..." [ref=e719]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqa1l4ZWIta1d5akJtWllETk5DYjNRMEpSRG5EZ3xBQ3Jtc0ttU04zeHM2N3B2dmJRaFZNZk1uSnYxMTIyMXBoTkxRay0tRnlPeERSXzAybGpNc3NFTkFQU2R0MlRJbW1wOUtUUVZVV2lvSU1UUWdDRnZFclRxYjlKUGZDR0d4NWNuU09UeXBzM2Z6TVBkdzN0UEJmbw&q=https%3A%2F%2Fwww.krishnaik.in%2Fliveclass2%2Fnocode%3Fid%3D10
+                          - text: "Reshare this to all your friends and colleagues :) 📞 Have questions or need guidance? Reach out to Krish Naik's counselling team: +91 91115 33440 +91 84848 37781"
+                        - generic:
+                          - group
+                      - generic [ref=e722]:
+                        - generic [ref=e723]:
+                          - link "Like this post along with 94 other people" [ref=e725]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e729]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "94 likes" [ref=e733]: "94"
+                        - generic [ref=e734]:
+                          - link "Dislike this post" [ref=e736]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e740]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e745]:
+                          - button "Share" [ref=e747]:
+                            - generic [ref=e751]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e756]:
+                          - link "1 comment" [ref=e758]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxlz6ql6lsZiXNIGxy35pHZzBExI7AFoSR&hl=en
+                            - generic [ref=e762]:
+                              - img
+                            - generic [ref=e763]: "1"
+                          - tooltip "tooltip"
+                    - link "Krish Naik • 10 days ago Hey all A lot of you here are deeply interested in AI, Machine Learning, GenAI, and building practical applications. I came across the Inc42 AI Summit, and it genuinely looks like a strong gathering of founders, AI leaders, and builders discussing how AI is being used at scale in the real world. I’ll also be attending the event, so if networking, learning, and meeting others in the AI ecosystem interests you, this is definitely worth checking out. Would be great to see some of you there! Like this post along with 123 other people tooltip 123 likes Dislike this post tooltip Share tooltip 4 comments tooltip" [ref=e768] [cursor=pointer]:
+                      - generic [ref=e769]:
+                        - link [ref=e771]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e774]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e775]: •
+                        - link "10 days ago" [ref=e777]:
+                          - /url: /post/UgkxFIbDzRia6z0bQtS68uf1EJOtcfyvK3d2
+                      - generic [ref=e778]:
+                        - generic [ref=e780]: Hey all A lot of you here are deeply interested in AI, Machine Learning, GenAI, and building practical applications. I came across the Inc42 AI Summit, and it genuinely looks like a strong gathering of founders, AI leaders, and builders discussing how AI is being used at scale in the real world. I’ll also be attending the event, so if networking, learning, and meeting others in the AI ecosystem interests you, this is definitely worth checking out. Would be great to see some of you there!
+                        - generic [ref=e781]:
+                          - group
+                      - generic [ref=e789]:
+                        - generic [ref=e790]:
+                          - link "Like this post along with 123 other people" [ref=e792]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e796]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "123 likes" [ref=e800]: "123"
+                        - generic [ref=e801]:
+                          - link "Dislike this post" [ref=e803]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e807]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e812]:
+                          - button "Share" [ref=e814]:
+                            - generic [ref=e818]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e823]:
+                          - link "4 comments" [ref=e825]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxFIbDzRia6z0bQtS68uf1EJOtcfyvK3d2&hl=en
+                            - generic [ref=e829]:
+                              - img
+                            - generic [ref=e830]: "4"
+                          - tooltip "tooltip"
+                    - 'link "Krish Naik • 13 days ago (edited) Last 5 days and last 100 seats left Super excited to launch our new bootcamp Modern RouteNo-Code AI Route -AI Generalist to AI Builder Bootcamp starting from May 17th 2026 This batch is suitable for anyone who wants to quickly into GenAI and Agentic AI without any coding Knowledge. Enrollment Link: https://www.krishnaik.in/liveclass2/n... Reshare this to all your friends and colleagues :) 📞 Have questions or need guidance? Reach out to Krish Naik''s counselling team: +91 91115 33440 +91 84848 37781 Like this post along with 160 other people tooltip 160 likes Dislike this post tooltip Share tooltip 1 comment tooltip" [ref=e835] [cursor=pointer]':
+                      - generic [ref=e836]:
+                        - link [ref=e838]:
+                          - /url: /@krishnaik06
+                        - link "Krish Naik" [ref=e841]:
+                          - /url: /@krishnaik06
+                        - generic [ref=e842]: •
+                        - link "13 days ago (edited)" [ref=e844]:
+                          - /url: /post/UgkxgIGjV3xItTzGhAGwOtFIwMgP2QxwZKDj
+                      - generic [ref=e845]:
+                        - generic [ref=e847]:
+                          - text: "Last 5 days and last 100 seats left Super excited to launch our new bootcamp Modern RouteNo-Code AI Route -AI Generalist to AI Builder Bootcamp starting from May 17th 2026 This batch is suitable for anyone who wants to quickly into GenAI and Agentic AI without any coding Knowledge. Enrollment Link:"
+                          - link "https://www.krishnaik.in/liveclass2/n..." [ref=e848]:
+                            - /url: https://www.youtube.com/redirect?event=backstage_event&redir_token=QUFFLUhqbkdhQi0tTHJmZ0h2RVB3cXpZM2NNUzVUMkpXd3xBQ3Jtc0tuQVk4cmJSdjFSY3pTaVZNMkc1MENjM3Z2VGp2MzhLaWVWZ3BhTTh1RVAtaVZnTTJaVEhTNHV0ZFF4QUVEQ3picDFvR3ZycW51VkUzaTZnZjljZG1WQlpvZk96UXhfaFJRYmszbkdkc05zZ1U5VVNIcw&q=https%3A%2F%2Fwww.krishnaik.in%2Fliveclass2%2Fnocode%3Fid%3D10
+                          - text: "Reshare this to all your friends and colleagues :) 📞 Have questions or need guidance? Reach out to Krish Naik's counselling team: +91 91115 33440 +91 84848 37781"
+                        - generic [ref=e849]:
+                          - group
+                      - generic [ref=e855]:
+                        - generic [ref=e856]:
+                          - link "Like this post along with 160 other people" [ref=e858]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e862]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic "160 likes" [ref=e866]: "160"
+                        - generic [ref=e867]:
+                          - link "Dislike this post" [ref=e869]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F&hl=en
+                            - generic [ref=e873]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e878]:
+                          - button "Share" [ref=e880]:
+                            - generic [ref=e884]:
+                              - img
+                          - tooltip "tooltip"
+                        - generic [ref=e889]:
+                          - link "1 comment" [ref=e891]:
+                            - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fpost%252FUgkxgIGjV3xItTzGhAGwOtFIwMgP2QxwZKDj&hl=en
+                            - generic [ref=e895]:
+                              - img
+                            - generic [ref=e896]: "1"
+                          - tooltip "tooltip"
+                  - button "Next" [ref=e902] [cursor=pointer]
+              - generic [ref=e909] [cursor=pointer]:
+                - link [ref=e910]:
+                  - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+                  - generic [ref=e922]: 153 lessons
+                - generic [ref=e925]:
+                  - heading "Complete Machine Learning playlist" [level=3] [ref=e926]:
+                    - link "Complete Machine Learning playlist" [ref=e927]:
+                      - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+                  - generic [ref=e929]:
+                    - group [ref=e930]:
+                      - link "Krish Naik" [ref=e933]:
+                        - /url: /@krishnaik06
+                        - text: Krish Naik
+                        - img [ref=e936]
+                      - generic [ref=e937]: •
+                      - link "Course" [ref=e940]:
+                        - /url: /@krishnaik06
+                    - group [ref=e941]
+                    - group [ref=e942]:
+                      - link "Complete Road Map To Be Expert In Python- Follow My Way · 29:11" [ref=e944]:
+                        - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+                    - group [ref=e945]:
+                      - link "Complete Roadmap To Follow To Prepare Machine Learning With All Videos And Materials · 18:56" [ref=e947]:
+                        - /url: /watch?v=VOpETRQGXy0&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+                    - group [ref=e948]
+                    - group [ref=e949]:
+                      - link "View full course" [ref=e952]:
+                        - /url: /playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+            - generic [ref=e959]:
+              - generic [ref=e962] [cursor=pointer]:
+                - generic [ref=e964]: Microsoft Agentic AI Course
+                - img [ref=e966]
+              - generic [ref=e967]:
+                - generic [ref=e968] [cursor=pointer]:
+                  - generic [ref=e969]:
+                    - link "10-Week Agentic AI Program - Ideal for PMs & Tech Leads. Master agentic UX design & GTM strategies for AI products." [ref=e972]:
+                      - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiTg_GlndSUAxUkqmYCHXU4BSQYACICCAEQABoCc20&co=1&ase=2&gclid=EAIaIQobChMIk4PxpZ3UlAMVJKpmAh11OAUkEAEYAiAAEgJRK_D_BwE&num=2&cid=CAAS0wHkaGiVxCLSkxo3Eqvg-9Db9XkieesTz9SrEzb4qnTSRO9wl2nqoIazfDHYQVYBuo-zVy1Mljtp1r2mm7HYr0S-sHfROCd8tKjjU4MLTVaxjsntieHy1mCqiPc45nSK2D9lGEY3XEXc7rqqjjtONSQSz7UetaYd82VmBT9_AIOyZaUlxPyaMvSer9B9ulFwptrMMZb1IBIXvWGXJDd1PH3-2ldCN55cFEwZxbFIP6OieMwqygrqo3iVi_tQxmGRJCnU9jL5KD1BYDFP7iqFSrf66fhG&cce=2&category=acrcp_v1_32&sig=AOD64_0rsp2x1rcqPwp24xeswOxdI5QCmg&adurl=https://www.simplilearn.com/agentic-ai-course-training%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26utm_content%3D23629880116--%26utm_device%3Dc%26utm_campaign%3DDisplay-MQL-DataCluster-Generative_AI-MS-CAAA-PG-PerfMax-IN-Main-Desktop-Mar26-adgroup-%26gad_source%3D2%26gad_campaignid%3D23629886059&ms=%5BCLICK_MS%5D&nx=%5BNX%5D&ny=%5BNY%5D&nb=0
+                    - generic [ref=e973]:
+                      - generic [ref=e975]:
+                        - generic [ref=e976]: Sponsored
+                        - text: ·
+                      - generic [ref=e978]: https://www.simplilearn.com/
+                  - button "My Ad Center" [ref=e981]:
+                    - generic [ref=e985]:
+                      - img
+                - generic [ref=e989]:
+                  - link "Program Eligibility" [ref=e990]:
+                    - generic [ref=e991]: Program Eligibility
+                  - link "7+ Real-World Projects" [ref=e992]:
+                    - generic [ref=e993]: 7+ Real-World Projects
+            - generic [ref=e995]:
+              - generic [ref=e997]:
+                - link [ref=e999] [cursor=pointer]:
+                  - /url: /watch?v=JxgmHe2NyeY&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1001] [cursor=pointer]:
+                  - generic [ref=e1002]:
+                    - generic [ref=e1003]:
+                      - heading "Complete Machine Learning In 6 Hours| Krish Naik 6 hours, 37 minutes" [level=3] [ref=e1004]:
+                        - link "Complete Machine Learning In 6 Hours| Krish Naik 6 hours, 37 minutes" [ref=e1005]:
+                          - /url: /watch?v=JxgmHe2NyeY&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                          - text: Complete Machine Learning In 6 Hours| Krish Naik
+                      - button "Action menu" [ref=e1009]:
+                        - generic [ref=e1012]:
+                          - img
+                    - generic [ref=e1015]:
+                      - generic [ref=e1016]: 1.9M views
+                      - generic [ref=e1017]: •3 years ago
+                  - generic [ref=e1018]:
+                    - link "Go to channel Krish Naik" [ref=e1019]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1020]:
+                      - link "Krish Naik" [ref=e1024]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1029]
+                  - generic [ref=e1031]:
+                    - text: All the materials are available in the below link ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1034]:
+                    - generic [ref=e1035]:
+                      - generic [ref=e1039]: 26 chapters
+                      - button [ref=e1040]
+                    - button "More" [ref=e1045]:
+                      - generic [ref=e1049]:
+                        - img
+              - generic [ref=e1054] [cursor=pointer]:
+                - link [ref=e1055]:
+                  - /url: /watch?v=fZM3oX4xEyg&list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D
+                  - generic [ref=e1067]: 8 videos
+                - generic [ref=e1070]:
+                  - heading "Complete RAG Playlist" [level=3] [ref=e1071]:
+                    - link "Complete RAG Playlist" [ref=e1072]:
+                      - /url: /watch?v=fZM3oX4xEyg&list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D
+                  - generic [ref=e1074]:
+                    - group [ref=e1075]:
+                      - link "Krish Naik" [ref=e1078]:
+                        - /url: /@krishnaik06
+                        - text: Krish Naik
+                        - img [ref=e1081]
+                      - generic [ref=e1082]: •
+                      - link "Playlist" [ref=e1085]:
+                        - /url: /@krishnaik06
+                    - group [ref=e1086]
+                    - group [ref=e1087]:
+                      - link "Introduction To Undertsanding RAG(Retrieval-Augmented Generation) · 20:40" [ref=e1089]:
+                        - /url: /watch?v=fZM3oX4xEyg&list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D
+                    - group [ref=e1090]:
+                      - link "2-Build RAG Pipeline From Scratch-Data Ingestion to Vector DB Pipeline-Part 1 · 59:08" [ref=e1092]:
+                        - /url: /watch?v=MykcjWPJ6T4&list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D
+                    - group [ref=e1093]
+                    - group [ref=e1094]:
+                      - link "View full playlist" [ref=e1097]:
+                        - /url: /playlist?list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D
+              - generic [ref=e1098]:
+                - generic [ref=e1101]:
+                  - img [ref=e1103]
+                  - heading "Shorts" [level=2] [ref=e1106]
+                - generic [ref=e1107]:
+                  - generic [ref=e1108]:
+                    - generic [ref=e1111]:
+                      - link [ref=e1112] [cursor=pointer]:
+                        - /url: /shorts/buX06pnB2GQ
+                      - generic [ref=e1116] [cursor=pointer]:
+                        - link "Reinforcement Learning Live Example With My Baby 👶👶👶" [ref=e1117]:
+                          - /url: /shorts/buX06pnB2GQ
+                        - generic [ref=e1118]: 203K views
+                      - button "More actions" [ref=e1120] [cursor=pointer]:
+                        - generic [ref=e1124]:
+                          - img
+                    - generic [ref=e1130]:
+                      - link [ref=e1131] [cursor=pointer]:
+                        - /url: /shorts/iQes2Q-ml2c
+                      - generic [ref=e1135] [cursor=pointer]:
+                        - link "Just Change Your Approach" [ref=e1136]:
+                          - /url: /shorts/iQes2Q-ml2c
+                        - generic [ref=e1137]: 115K views
+                      - button "More actions" [ref=e1139] [cursor=pointer]:
+                        - generic [ref=e1143]:
+                          - img
+                    - generic [ref=e1149]:
+                      - link [ref=e1150] [cursor=pointer]:
+                        - /url: /shorts/uXEg8TF-2ZA
+                      - generic [ref=e1154] [cursor=pointer]:
+                        - 'link "Biral Video- Too Much Automation #shorts" [ref=e1155]':
+                          - /url: /shorts/uXEg8TF-2ZA
+                        - generic [ref=e1156]: 77K views
+                      - button "More actions" [ref=e1158] [cursor=pointer]:
+                        - generic [ref=e1162]:
+                          - img
+                  - generic [ref=e1166]:
+                    - generic [ref=e1169]:
+                      - link [ref=e1170] [cursor=pointer]:
+                        - /url: /shorts/K7BpO0xUvYY
+                      - generic [ref=e1174] [cursor=pointer]:
+                        - 'link "These Robots Are Really Smart|Museum Of the Future|Dubai #shorts" [ref=e1175]':
+                          - /url: /shorts/K7BpO0xUvYY
+                        - generic [ref=e1176]: 42K views
+                      - button "More actions" [ref=e1178] [cursor=pointer]:
+                        - generic [ref=e1182]:
+                          - img
+                    - generic [ref=e1188]:
+                      - link [ref=e1189] [cursor=pointer]:
+                        - /url: /shorts/6I2m7VtGLU4
+                      - generic [ref=e1193] [cursor=pointer]:
+                        - link "Judging India's Largest Hackathon @physicswallah" [ref=e1194]:
+                          - /url: /shorts/6I2m7VtGLU4
+                        - generic [ref=e1195]: 64K views
+                      - button "More actions" [ref=e1197] [cursor=pointer]:
+                        - generic [ref=e1201]:
+                          - img
+              - generic [ref=e1206] [cursor=pointer]:
+                - link [ref=e1207]:
+                  - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+                  - generic [ref=e1219]: 58 lessons
+                - generic [ref=e1222]:
+                  - heading "Complete Python Playlist" [level=3] [ref=e1223]:
+                    - link "Complete Python Playlist" [ref=e1224]:
+                      - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+                  - generic [ref=e1226]:
+                    - group [ref=e1227]:
+                      - link "Krish Naik" [ref=e1230]:
+                        - /url: /@krishnaik06
+                        - text: Krish Naik
+                        - img [ref=e1233]
+                      - generic [ref=e1234]: •
+                      - link "Course" [ref=e1237]:
+                        - /url: /@krishnaik06
+                    - group [ref=e1238]
+                    - group [ref=e1239]:
+                      - link "Complete Road Map To Be Expert In Python- Follow My Way · 29:11" [ref=e1241]:
+                        - /url: /watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+                    - group [ref=e1242]:
+                      - link "Tutorial 1- Anaconda Installation and Python Basics · 19:05" [ref=e1244]:
+                        - /url: /watch?v=7S865QCGL74&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+                    - group [ref=e1245]
+                    - group [ref=e1246]:
+                      - link "View full course" [ref=e1249]:
+                        - /url: /playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+              - generic [ref=e1251] [cursor=pointer]:
+                - link [ref=e1252]:
+                  - /url: /watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
+                  - generic [ref=e1264]: 38 lessons
+                - generic [ref=e1267]:
+                  - heading "Machine Learning Playlist" [level=3] [ref=e1268]:
+                    - link "Machine Learning Playlist" [ref=e1269]:
+                      - /url: /watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
+                  - generic [ref=e1271]:
+                    - group [ref=e1272]:
+                      - link "Krish Naik Hindi" [ref=e1275]:
+                        - /url: /@krishnaikhindi
+                      - generic [ref=e1276]: •
+                      - link "Course" [ref=e1279]:
+                        - /url: /@krishnaikhindi
+                    - group [ref=e1280]
+                    - group [ref=e1281]:
+                      - link "Introduction To Machine Learning Algorithms In Hindi · 19:00" [ref=e1283]:
+                        - /url: /watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&pp=0gcJCRoBOCosWNin
+                    - group [ref=e1284]:
+                      - link "Simple Linear Regression Algorithm Indepth Maths Intuition With Notes In Hindi · 52:20" [ref=e1286]:
+                        - /url: /watch?v=jerPVDaHbEA&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
+                    - group [ref=e1287]
+                    - group [ref=e1288]:
+                      - link "View full course" [ref=e1291]:
+                        - /url: /playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
+              - generic [ref=e1296]:
+                - img [ref=e1302]
+                - generic [ref=e1304] [cursor=pointer]:
+                  - generic [ref=e1305]:
+                    - link "Villas For Sale Near KR Puram @ 3.39Cr*" [ref=e1308]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C1SzWJyQUaou-OIOSz7sP1L6gkQyDwv-FhwG6ntT3jxWwkB8QAiAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHl4amcQqkCgdcznoKFRj6oAwTIAwqqBK8CT9AL8nizjCjfdvZSlxts-HRNjbslIz3FbGyMSLrnNSz3a5rxdEGsJbvQqbSO6rKzLsELj6c7PHLM4232BNDl1MnOCyxSPN1cW-phEKuWFwjYNJLCYV146hw9EwxymGkmHrSzIzX44fb8aCpHkQJT5Qzs33l8MYvcfKXo5SeVnYNdQTSJXCprCLfgWXXogi7aDwFuJBKEI_pZ_It-N9_Vw9k2z7jFnAITzNM2y6-Ixj-uupV0NFbBxW4pUJTY3XFGA0v4_qtFCBgp52myBl6RK6ynT13SwXIc8pD7gLW7XwQmBUkbmk95O8YIznaWaxm1qx0cIN3ZdqjFXkn8p_Gd2FDg1VrqMSbUkkYXejHYjr-jGEXs8foT1vlRV_HnbIZqCA6TbTNNzIpKi5-CBSX5iAXBy-7cWJIFCAgTeJS2q5sdoAZugAflmfr7HJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkYaHR0cHM6Ly9kcmtiZWxsYWdpby5jb20vsQkz3-jQ1SdYmMgJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsS0gwCEAHaDCYKCxCw4KyO5YDswbMBEgIBAxoNGMHL7txYINuUt93dBUABSgIQH5oNARKqDQJJTsgNAdINtQJodHRwczovL2Rya2JlbGxhZ2lvLmNvbS8_dXRtX3NvdXJjZT1EZW1hbmQtR2VuJnV0bV9jYW1wYWlnbj1ERy1DdXN0b20tQXBhcnRtZW50cyZ1dG1fYWRfZ3JvdXA9REctQ3VzdG9tLUFwYXJ0bWVudHMtVHJ1LUFxdWFwb2xpcyZ1dG1fa2V5d29yZD0mY2FtcGFpZ25faWQ9MjM4MTcwNzAwMTcmYWRncm91cF9pZD0xOTY5NTkxMjgxNTUmdXRtX2FkbmFtZT0mdXRtX2xhYmVsPU1heS1BZDEtS2lkLURvZyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4MTcwNzAwMTcmZ2JyYWlkPTBBQUFBQkNPS2NPWEZxZW45b1I4YXhZZ254R1dDNWE1ekK4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXeSFNB_mAYK66FwoIASgBMAA4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYAiAAEgLRPfD_BwE&num=2&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&sig=AOD64_1A-if9WsXXNkZ2F98JDgXgittgog&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "Match Your Lifestyle With Elite Tuscan-Inspired Villas Designed For Tranquility & Serenity" [ref=e1311]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C1SzWJyQUaou-OIOSz7sP1L6gkQyDwv-FhwG6ntT3jxWwkB8QAiAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHl4amcQqkCgdcznoKFRj6oAwTIAwqqBK8CT9AL8nizjCjfdvZSlxts-HRNjbslIz3FbGyMSLrnNSz3a5rxdEGsJbvQqbSO6rKzLsELj6c7PHLM4232BNDl1MnOCyxSPN1cW-phEKuWFwjYNJLCYV146hw9EwxymGkmHrSzIzX44fb8aCpHkQJT5Qzs33l8MYvcfKXo5SeVnYNdQTSJXCprCLfgWXXogi7aDwFuJBKEI_pZ_It-N9_Vw9k2z7jFnAITzNM2y6-Ixj-uupV0NFbBxW4pUJTY3XFGA0v4_qtFCBgp52myBl6RK6ynT13SwXIc8pD7gLW7XwQmBUkbmk95O8YIznaWaxm1qx0cIN3ZdqjFXkn8p_Gd2FDg1VrqMSbUkkYXejHYjr-jGEXs8foT1vlRV_HnbIZqCA6TbTNNzIpKi5-CBSX5iAXBy-7cWJIFCAgTeJS2q5sdoAZugAflmfr7HJAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkYaHR0cHM6Ly9kcmtiZWxsYWdpby5jb20vsQkz3-jQ1SdYmMgJAMgJigKYCwG6CzoIAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDAnNp0AsS0gwCEAHaDCYKCxCw4KyO5YDswbMBEgIBAxoNGMHL7txYINuUt93dBUABSgIQH5oNARKqDQJJTsgNAdINtQJodHRwczovL2Rya2JlbGxhZ2lvLmNvbS8_dXRtX3NvdXJjZT1EZW1hbmQtR2VuJnV0bV9jYW1wYWlnbj1ERy1DdXN0b20tQXBhcnRtZW50cyZ1dG1fYWRfZ3JvdXA9REctQ3VzdG9tLUFwYXJ0bWVudHMtVHJ1LUFxdWFwb2xpcyZ1dG1fa2V5d29yZD0mY2FtcGFpZ25faWQ9MjM4MTcwNzAwMTcmYWRncm91cF9pZD0xOTY5NTkxMjgxNTUmdXRtX2FkbmFtZT0mdXRtX2xhYmVsPU1heS1BZDEtS2lkLURvZyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4MTcwNzAwMTcmZ2JyYWlkPTBBQUFBQkNPS2NPWEZxZW45b1I4YXhZZ254R1dDNWE1ekK4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXeSFNB_mAYK66FwoIASgBMAA4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYAiAAEgLRPfD_BwE&num=2&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&sig=AOD64_1A-if9WsXXNkZ2F98JDgXgittgog&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e1312]:
+                      - generic [ref=e1314]:
+                        - generic [ref=e1315]: Sponsored
+                        - text: ·
+                      - generic [ref=e1317]: DRK Bellagio
+                  - button "My Ad Center" [ref=e1320]:
+                    - generic [ref=e1324]:
+                      - img
+              - generic [ref=e1329]:
+                - link [ref=e1331] [cursor=pointer]:
+                  - /url: /watch?v=LZzq1zSL1bs&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1333] [cursor=pointer]:
+                  - generic [ref=e1334]:
+                    - heading "Complete Statistics For Data Science In 6 hours By Krish Naik 5 hours, 28 minutes" [level=3] [ref=e1336]:
+                      - link "Complete Statistics For Data Science In 6 hours By Krish Naik 5 hours, 28 minutes" [ref=e1337]:
+                        - /url: /watch?v=LZzq1zSL1bs&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Complete Statistics For Data Science In 6 hours By Krish Naik
+                    - generic [ref=e1340]:
+                      - generic [ref=e1341]: 1.8M views
+                      - generic [ref=e1342]: •3 years ago
+                  - generic [ref=e1343]:
+                    - link "Go to channel Krish Naik" [ref=e1344]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1345]:
+                      - link "Krish Naik" [ref=e1349]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1354]
+                  - generic [ref=e1356]:
+                    - text: Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data. In applying ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1359]:
+                    - generic [ref=e1360]:
+                      - generic [ref=e1364]: 29 chapters
+                      - button "Introduction | Descriptive Statistics | Inferential Stats | What is Statistics | Types of Statistics | Population And Sample | Sampling Teechniques | What are Variables? | Variable Measurement Scales | Mean, Median, Mode | Measure of dispersion with Variance And SD | Percentiles and Quartiles | Five number summary and boxplot | Gaussian And Normal Distribution | Stats Interview Question 1 | Finding Outliers In Python | Probability, Additive Rule, Multiplicative Rule | Permutation And combination | p value | Hypothesis testing, confidence interval, significance values | Type 1 and Type 2 error | Confidence Interval | One sample z test | one sample t test | Chi square test | Inferential stats with python | Covariance, Pearson correlation, spearman rank correlation | Deriving P values and significance value | Other types of distribution" [ref=e1365]
+                    - button "More" [ref=e1370]:
+                      - generic [ref=e1374]:
+                        - img
+              - generic [ref=e1378]:
+                - generic [ref=e1381]:
+                  - img [ref=e1383]
+                  - heading "Shorts" [level=2] [ref=e1386]
+                - generic [ref=e1387]:
+                  - generic [ref=e1388]:
+                    - generic [ref=e1391]:
+                      - link [ref=e1392] [cursor=pointer]:
+                        - /url: /shorts/dIV-YrKR1Os
+                      - generic [ref=e1396] [cursor=pointer]:
+                        - 'link "Jack Of All Trades Is Not An Insult #shorts" [ref=e1397]':
+                          - /url: /shorts/dIV-YrKR1Os
+                        - generic [ref=e1398]: 47K views
+                      - button "More actions" [ref=e1400] [cursor=pointer]:
+                        - generic [ref=e1404]:
+                          - img
+                    - generic [ref=e1410]:
+                      - link [ref=e1411] [cursor=pointer]:
+                        - /url: /shorts/68oW7VTV4BQ
+                      - generic [ref=e1415] [cursor=pointer]:
+                        - 'link "Why Dont Machine learning models have a secret 🤔 #genai #machinelearning" [ref=e1416]':
+                          - /url: /shorts/68oW7VTV4BQ
+                        - generic [ref=e1417]: 155K views
+                      - button "More actions" [ref=e1419] [cursor=pointer]:
+                        - generic [ref=e1423]:
+                          - img
+                    - generic [ref=e1429]:
+                      - link [ref=e1430] [cursor=pointer]:
+                        - /url: /shorts/3VcZ_8BIgtI
+                      - generic [ref=e1434] [cursor=pointer]:
+                        - link "Day 1 Generative AI- AWS Reinvent 2024" [ref=e1435]:
+                          - /url: /shorts/3VcZ_8BIgtI
+                        - generic [ref=e1436]: 71K views
+                      - button "More actions" [ref=e1438] [cursor=pointer]:
+                        - generic [ref=e1442]:
+                          - img
+                  - generic [ref=e1446]:
+                    - generic [ref=e1449]:
+                      - link [ref=e1450] [cursor=pointer]:
+                        - /url: /shorts/EN7ohkc36KY
+                      - generic [ref=e1454] [cursor=pointer]:
+                        - link "Vision Behind Krish Naik Academy" [ref=e1455]:
+                          - /url: /shorts/EN7ohkc36KY
+                        - generic [ref=e1456]: 23K views
+                      - button "More actions" [ref=e1458] [cursor=pointer]:
+                        - generic [ref=e1462]:
+                          - img
+                    - generic [ref=e1468]:
+                      - link [ref=e1469] [cursor=pointer]:
+                        - /url: /shorts/QZLCwQNTFqA
+                      - generic [ref=e1473] [cursor=pointer]:
+                        - 'link "Data Science Interview Experience | Krish Naik #interviewquestions #techcareer #placement #shorts" [ref=e1474]':
+                          - /url: /shorts/QZLCwQNTFqA
+                        - generic [ref=e1475]: 43K views
+                      - button "More actions" [ref=e1477] [cursor=pointer]:
+                        - generic [ref=e1481]:
+                          - img
+                    - generic [ref=e1487]:
+                      - link [ref=e1488] [cursor=pointer]:
+                        - /url: /shorts/C4JyyCdbagk
+                      - generic [ref=e1492] [cursor=pointer]:
+                        - 'link "From mechanical ⚙️ ➡️ To Data Science👨‍💻 @krishnaik06 #technology #informationtechnology #success" [ref=e1493]':
+                          - /url: /shorts/C4JyyCdbagk
+                        - generic [ref=e1494]: 30K views
+                      - button "More actions" [ref=e1496] [cursor=pointer]:
+                        - generic [ref=e1500]:
+                          - img
+                  - generic [ref=e1504]:
+                    - generic [ref=e1507]:
+                      - link [ref=e1508] [cursor=pointer]:
+                        - /url: /shorts/uyQP4c5LXEk
+                      - generic [ref=e1512] [cursor=pointer]:
+                        - link "The Best Data Science Course In Market" [ref=e1513]:
+                          - /url: /shorts/uyQP4c5LXEk
+                        - generic [ref=e1514]: 21K views
+                      - button "More actions" [ref=e1516] [cursor=pointer]:
+                        - generic [ref=e1520]:
+                          - img
+                    - generic [ref=e1526]:
+                      - link [ref=e1527] [cursor=pointer]:
+                        - /url: /shorts/hVx7E3kFn1Y
+                      - generic [ref=e1531] [cursor=pointer]:
+                        - link "The Best Generative AI Course For Leaders And Professionals" [ref=e1532]:
+                          - /url: /shorts/hVx7E3kFn1Y
+                        - generic [ref=e1533]: 13K views
+                      - button "More actions" [ref=e1535] [cursor=pointer]:
+                        - generic [ref=e1539]:
+                          - img
+                    - generic [ref=e1545]:
+                      - link [ref=e1546] [cursor=pointer]:
+                        - /url: /shorts/P60zscm9HgI
+                      - generic [ref=e1550] [cursor=pointer]:
+                        - 'link "krish naik | ineuron | Data science challenge | machine learning #shorts #datascience" [ref=e1551]':
+                          - /url: /shorts/P60zscm9HgI
+                        - generic [ref=e1552]: 24K views
+                      - button "More actions" [ref=e1554] [cursor=pointer]:
+                        - generic [ref=e1558]:
+                          - img
+                  - generic [ref=e1562]:
+                    - generic [ref=e1565]:
+                      - link [ref=e1566] [cursor=pointer]:
+                        - /url: /shorts/SHLyTry7QqI
+                      - generic [ref=e1570] [cursor=pointer]:
+                        - 'link "Perfect Roadmap To Learn Data Science With Free Videos #freedatasciencecourse #shorts #python" [ref=e1571]':
+                          - /url: /shorts/SHLyTry7QqI
+                        - generic [ref=e1572]: 65K views
+                      - button "More actions" [ref=e1574] [cursor=pointer]:
+                        - generic [ref=e1578]:
+                          - img
+                    - generic [ref=e1584]:
+                      - link [ref=e1585] [cursor=pointer]:
+                        - /url: /shorts/VsmPyZPO2Xg
+                      - generic [ref=e1589] [cursor=pointer]:
+                        - 'link "Best Data Science And Generative AI courses in Udemy #udemy #datascience @agenticai #generativeai" [ref=e1590]':
+                          - /url: /shorts/VsmPyZPO2Xg
+                        - generic [ref=e1591]: 28K views
+                      - button "More actions" [ref=e1593] [cursor=pointer]:
+                        - generic [ref=e1597]:
+                          - img
+                    - generic [ref=e1603]:
+                      - link [ref=e1604] [cursor=pointer]:
+                        - /url: /shorts/XqgUoozv1ak
+                      - generic [ref=e1608] [cursor=pointer]:
+                        - 'link "AI/ML engineer @ Intellipaat @Krish Naik # Fresher Data Science#😊#👍" [ref=e1609]':
+                          - /url: /shorts/XqgUoozv1ak
+                        - generic [ref=e1610]: 14K views
+                      - button "More actions" [ref=e1612] [cursor=pointer]:
+                        - generic [ref=e1616]:
+                          - img
+                - button "Show more" [ref=e1623] [cursor=pointer]:
+                  - generic [ref=e1624]: Show more
+                  - generic [ref=e1628]:
+                    - img
+              - generic [ref=e1633]:
+                - link [ref=e1635] [cursor=pointer]:
+                  - /url: /watch?v=csG_qfOTvxw&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                - generic [ref=e1637] [cursor=pointer]:
+                  - generic [ref=e1638]:
+                    - heading "How To Learn Data Science Smartly? 12 minutes, 13 seconds" [level=3] [ref=e1640]:
+                      - link "How To Learn Data Science Smartly? 12 minutes, 13 seconds" [ref=e1641]:
+                        - /url: /watch?v=csG_qfOTvxw&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                        - text: How To Learn Data Science Smartly?
+                    - generic [ref=e1644]:
+                      - generic [ref=e1645]: 1.7M views
+                      - generic [ref=e1646]: •6 years ago
+                  - generic [ref=e1647]:
+                    - link "Go to channel Krish Naik" [ref=e1648]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1649]:
+                      - link "Krish Naik" [ref=e1653]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1658]
+                  - generic [ref=e1660]:
+                    - text: Hello All in this video we will understand how we can learn Data Science Smartly Please join as a member in my channel to get ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1663]:
+                    - generic [ref=e1664]:
+                      - generic [ref=e1668]: 7 chapters
+                      - button "Intro | Data Science | Web Scraping | Use Case | Data Analysis | How Did I Learn | Reverse Engineering" [ref=e1669]
+                    - button "More" [ref=e1674]:
+                      - generic [ref=e1678]:
+                        - img
+              - generic [ref=e1683]:
+                - link [ref=e1685] [cursor=pointer]:
+                  - /url: /watch?v=p4pHsuEf4Ms&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1687] [cursor=pointer]:
+                  - generic [ref=e1688]:
+                    - heading "Generative AI Vs Agentic AI Vs AI Agents 17 minutes" [level=3] [ref=e1690]:
+                      - link "Generative AI Vs Agentic AI Vs AI Agents 17 minutes" [ref=e1691]:
+                        - /url: /watch?v=p4pHsuEf4Ms&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Generative AI Vs Agentic AI Vs AI Agents
+                    - generic [ref=e1694]:
+                      - generic [ref=e1695]: 568K views
+                      - generic [ref=e1696]: •1 year ago
+                  - generic [ref=e1697]:
+                    - link "Go to channel Krish Naik" [ref=e1698]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1699]:
+                      - link "Krish Naik" [ref=e1703]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1708]
+                  - generic [ref=e1710]:
+                    - text: In this video we will discuss about the differences between generative ai vs agentic ai vs AI agents. Agentic AI is an AI system that ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1713]:
+                    - generic [ref=e1714]:
+                      - generic [ref=e1717]: Summary
+                      - button "Krish Naik explores the fundamental differences between these concepts, explaining how LLMs generate content while agents utilize tool calls for specific tasks. The discussion highlights the collaborative nature of agentic systems in managing complex workflows, including the integration of human feedback." [ref=e1718]
+                      - text: ·
+                    - button "More" [ref=e1723]:
+                      - generic [ref=e1727]:
+                        - img
+              - generic [ref=e1732]:
+                - link [ref=e1734] [cursor=pointer]:
+                  - /url: /watch?v=ghPb2T0ygSE&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1736] [cursor=pointer]:
+                  - generic [ref=e1737]:
+                    - heading "Learn Agentic AI in 2026 With These 7 Steps 22 minutes" [level=3] [ref=e1739]:
+                      - link "Learn Agentic AI in 2026 With These 7 Steps 22 minutes" [ref=e1740]:
+                        - /url: /watch?v=ghPb2T0ygSE&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Learn Agentic AI in 2026 With These 7 Steps
+                    - generic [ref=e1743]:
+                      - generic [ref=e1744]: 88K views
+                      - generic [ref=e1745]: •1 month ago
+                  - generic [ref=e1746]:
+                    - link "Go to channel Krish Naik" [ref=e1747]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1748]:
+                      - link "Krish Naik" [ref=e1752]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1757]
+                  - generic [ref=e1759]:
+                    - text: "Checkout the roadmap: https://www.krishnaik.in/ai-roadmaps Agentic AI involves creating autonomous systems that use Large ..."
+                    - tooltip "tooltip"
+              - generic [ref=e1764]:
+                - img [ref=e1770]
+                - generic [ref=e1772] [cursor=pointer]:
+                  - generic [ref=e1773]:
+                    - link "Microsoft AI Engineer Training" [ref=e1776]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLa4qJyQUaou-OIOSz7sP1L6gkQyp6_KYhwHQyLer4BWwkB8QAyAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHzgvTbA6kCgdcznoKFRj6oAwTIAwqqBJ8CT9ChOdaOlYPm9V0DbGxv5GNsi7IWJjbHemLkaK66NjDgSpz4R0SnKrjEs7SUzru_KshBq7tmP27bwmv_NeHLvMvxVitKPulVYeZIOpz8ADWBMZLCSEpvxBs9EQ08kmlSCa-zLCqM-fKzdChKlxFlt0LKmjZgM4bab7ru8g7Cwe5fXTCJWy5qE7XhWXXoHh_lyncWfRycePdD65olNtWWerd0Ys6dxQwLl94s3L7TxzXt9oh8aFHIwmh6V4KG3HdPLlnlxKhJUCEis1GoRGOYaYlGJDfKwbVg8lw5inVxr2wTY87jfN06epE3znaWaxm1qx0nymKmdqjFXknsp5y3_DPP1XG7aArUun3O3sjnqmIt2qEGx8DYCWrtziZeq5qIBfn8u91XkgUHCBN49erMIqAGpAGAB5W0wiGQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYuNrIpZ3UlANgAZoJO2h0dHBzOi8vbWljcm9zb2Z0LnNpbXBsaWxlYXJuLmNvbS9haS1lbmdpbmVlci1jb3Vyc2Utb25saW5lsQm3ywa0kLnIQ8gJAJgLAboLOggDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMCc2nQCxKiDB9qGAoWY29tLm1vYmlsZS5zaW1wbGlsZWFybngAiAEA0gwCEAHaDCYKCxCwmrytovKyrLYBEgIBAxoNGPn8u91XIJuFzPzRBUABSgIQH5oNARKqDQJJTsgNAdINzwJodHRwczovL21pY3Jvc29mdC5zaW1wbGlsZWFybi5jb20vYWktZW5naW5lZXItY291cnNlLW9ubGluZT91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9MjM1NDk4OTUwMjMtLSZ1dG1fZGV2aWNlPWMmdXRtX2NhbXBhaWduPURpc3BsYXktTVFMLURhdGFDbHVzdGVyLUFJTWFjaGluZUxlYXJuaW5nLUFJTUwtTVMtQ01BSUVQLVBHLVBlcmZNYXgtSU4tTWFpbi1EZXNrdG9wLUZlYjI2LWFkZ3JvdXAtJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzU0OTkwMjQ1NyZnYnJhaWQ9MEFBQUFBRHQ5QVhOekpuQzdGX0lIOTB3Z3JZSlZXMllTQ7AOzbS47Ri4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXKJQCBpmdVBu6FwoIASgBMAA4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYAyAAEgJFrfD_BwE&num=3&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&sig=AOD64_3arEmjcYE3wjsmkQtnT9mqZJMl5g&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - link "Master ML, Deep Learning, GenAI & NLP with relevant tools like Python, TensorFlow & more." [ref=e1779]:
+                      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CLa4qJyQUaou-OIOSz7sP1L6gkQyp6_KYhwHQyLer4BWwkB8QAyAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHzgvTbA6kCgdcznoKFRj6oAwTIAwqqBJ8CT9ChOdaOlYPm9V0DbGxv5GNsi7IWJjbHemLkaK66NjDgSpz4R0SnKrjEs7SUzru_KshBq7tmP27bwmv_NeHLvMvxVitKPulVYeZIOpz8ADWBMZLCSEpvxBs9EQ08kmlSCa-zLCqM-fKzdChKlxFlt0LKmjZgM4bab7ru8g7Cwe5fXTCJWy5qE7XhWXXoHh_lyncWfRycePdD65olNtWWerd0Ys6dxQwLl94s3L7TxzXt9oh8aFHIwmh6V4KG3HdPLlnlxKhJUCEis1GoRGOYaYlGJDfKwbVg8lw5inVxr2wTY87jfN06epE3znaWaxm1qx0nymKmdqjFXknsp5y3_DPP1XG7aArUun3O3sjnqmIt2qEGx8DYCWrtziZeq5qIBfn8u91XkgUHCBN49erMIqAGpAGAB5W0wiGQBwSoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHvtmxAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAEEjZoNI1UBRYuNrIpZ3UlANgAZoJO2h0dHBzOi8vbWljcm9zb2Z0LnNpbXBsaWxlYXJuLmNvbS9haS1lbmdpbmVlci1jb3Vyc2Utb25saW5lsQm3ywa0kLnIQ8gJAJgLAboLOggDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMCc2nQCxKiDB9qGAoWY29tLm1vYmlsZS5zaW1wbGlsZWFybngAiAEA0gwCEAHaDCYKCxCwmrytovKyrLYBEgIBAxoNGPn8u91XIJuFzPzRBUABSgIQH5oNARKqDQJJTsgNAdINzwJodHRwczovL21pY3Jvc29mdC5zaW1wbGlsZWFybi5jb20vYWktZW5naW5lZXItY291cnNlLW9ubGluZT91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWNwYyZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9MjM1NDk4OTUwMjMtLSZ1dG1fZGV2aWNlPWMmdXRtX2NhbXBhaWduPURpc3BsYXktTVFMLURhdGFDbHVzdGVyLUFJTWFjaGluZUxlYXJuaW5nLUFJTUwtTVMtQ01BSUVQLVBHLVBlcmZNYXgtSU4tTWFpbi1EZXNrdG9wLUZlYjI2LWFkZ3JvdXAtJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzU0OTkwMjQ1NyZnYnJhaWQ9MEFBQUFBRHQ5QVhOekpuQzdGX0lIOTB3Z3JZSlZXMllTQ7AOzbS47Ri4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXKJQCBpmdVBu6FwoIASgBMAA4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYAyAAEgJFrfD_BwE&num=3&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&sig=AOD64_3arEmjcYE3wjsmkQtnT9mqZJMl5g&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                    - generic [ref=e1780]:
+                      - generic [ref=e1782]:
+                        - generic [ref=e1783]: Sponsored
+                        - text: ·
+                      - generic [ref=e1785]: Simplilearn
+                  - button "My Ad Center" [ref=e1788]:
+                    - generic [ref=e1792]:
+                      - img
+              - generic [ref=e1797]:
+                - link [ref=e1799] [cursor=pointer]:
+                  - /url: /watch?v=7FruOP4Vybg&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1801] [cursor=pointer]:
+                  - generic [ref=e1802]:
+                    - 'heading "Learn Claude before it replace you | Master Claude From Scratch | AI for Everyone: Session 1 2 hours, 4 minutes" [level=3] [ref=e1804]':
+                      - 'link "Learn Claude before it replace you | Master Claude From Scratch | AI for Everyone: Session 1 2 hours, 4 minutes" [ref=e1805]':
+                        - /url: /watch?v=7FruOP4Vybg&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: "Learn Claude before it replace you | Master Claude From Scratch | AI for Everyone: Session 1"
+                    - generic [ref=e1808]:
+                      - generic [ref=e1809]: 76K views
+                      - generic [ref=e1810]: •Streamed 1 month ago
+                  - generic [ref=e1811]:
+                    - link "Go to channel Krish Naik" [ref=e1812]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1813]:
+                      - link "Krish Naik" [ref=e1817]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1822]
+                  - generic [ref=e1824]:
+                    - text: "We're going LIVE today. Session 1 of AI for Everyone: From Tools to Systems. Today's topic: Claude - the most powerful AI ..."
+                    - tooltip "tooltip"
+                  - generic [ref=e1827]:
+                    - generic [ref=e1828]:
+                      - generic [ref=e1831]: Summary
+                      - button "Krish Naik introduces an AI-powered, no-code learning series designed to make professionals AI-ready across various domains. This first session explores the Claude ecosystem, demonstrating how to treat the AI like an intern to build reusable skills, manage specialized tasks, and create interactive dashboards without needing any programming background." [ref=e1832]
+                      - text: ·
+                    - button "More" [ref=e1837]:
+                      - generic [ref=e1841]:
+                        - img
+              - generic [ref=e1846]:
+                - link [ref=e1848] [cursor=pointer]:
+                  - /url: /watch?v=o126p1QN_RI&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1850] [cursor=pointer]:
+                  - generic [ref=e1851]:
+                    - heading "Complete RAG Crash Course With Langchain In 2 Hours 2 hours, 8 minutes" [level=3] [ref=e1853]:
+                      - link "Complete RAG Crash Course With Langchain In 2 Hours 2 hours, 8 minutes" [ref=e1854]:
+                        - /url: /watch?v=o126p1QN_RI&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Complete RAG Crash Course With Langchain In 2 Hours
+                    - generic [ref=e1857]:
+                      - generic [ref=e1858]: 323K views
+                      - generic [ref=e1859]: •7 months ago
+                  - generic [ref=e1860]:
+                    - link "Go to channel Krish Naik" [ref=e1861]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1862]:
+                      - link "Krish Naik" [ref=e1866]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1871]
+                  - generic [ref=e1873]:
+                    - text: "github: https://github.com/krishnaik06/RAG-Tutorials Retrieval-Augmented Generation (RAG) is the process of optimizing the ..."
+                    - tooltip "tooltip"
+                  - generic [ref=e1876]:
+                    - generic [ref=e1877]:
+                      - generic [ref=e1880]: Summary
+                      - button "Krish Naik demonstrates how to build a Retrieval Augmented Generation application from scratch using LangChain. The crash course covers data ingestion, parsing, embedding models, and vector database storage to optimize LLM outputs and reduce hallucinations." [ref=e1881]
+                      - text: ·
+                    - button "More" [ref=e1886]:
+                      - generic [ref=e1890]:
+                        - img
+              - generic [ref=e1895]:
+                - link [ref=e1897] [cursor=pointer]:
+                  - /url: /watch?v=HcA3YIWoM0w&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1899] [cursor=pointer]:
+                  - generic [ref=e1900]:
+                    - heading "Start Learning AI or Regret 6 minutes, 58 seconds" [level=3] [ref=e1902]:
+                      - link "Start Learning AI or Regret 6 minutes, 58 seconds" [ref=e1903]:
+                        - /url: /watch?v=HcA3YIWoM0w&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Start Learning AI or Regret
+                    - generic [ref=e1906]:
+                      - generic [ref=e1907]: 79K views
+                      - generic [ref=e1908]: •7 months ago
+                  - generic [ref=e1909]:
+                    - link "Go to channel Krish Naik" [ref=e1910]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1911]:
+                      - link "Krish Naik" [ref=e1915]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1920]
+                  - generic [ref=e1922]:
+                    - text: Last 6 days to launch our last bootcamp of 2025 Super excited to launch our new live Bootcamp 3.0 Agentic AI with Ultimate RAG ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1925]:
+                    - generic [ref=e1926]:
+                      - generic [ref=e1929]: Summary
+                      - button "Krish Naik explains how AI integration into daily tasks across all industries increases productivity. With significant VC funding flowing into AI startups, learning these skills is highlighted as essential for career longevity and success." [ref=e1930]
+                      - text: ·
+                    - button "More" [ref=e1935]:
+                      - generic [ref=e1939]:
+                        - img
+              - generic [ref=e1944]:
+                - link [ref=e1946] [cursor=pointer]:
+                  - /url: /watch?v=-UQ6OZywZ2I&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1948] [cursor=pointer]:
+                  - generic [ref=e1949]:
+                    - heading "All You Need To Know About Model Context Protocol(MCP) 24 minutes" [level=3] [ref=e1951]:
+                      - link "All You Need To Know About Model Context Protocol(MCP) 24 minutes" [ref=e1952]:
+                        - /url: /watch?v=-UQ6OZywZ2I&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: All You Need To Know About Model Context Protocol(MCP)
+                    - generic [ref=e1955]:
+                      - generic [ref=e1956]: 321K views
+                      - generic [ref=e1957]: •1 year ago
+                  - generic [ref=e1958]:
+                    - link "Go to channel Krish Naik" [ref=e1959]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e1960]:
+                      - link "Krish Naik" [ref=e1964]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e1969]
+                  - generic [ref=e1971]:
+                    - text: MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI ...
+                    - tooltip "tooltip"
+                  - generic [ref=e1974]:
+                    - generic [ref=e1975]:
+                      - generic [ref=e1978]: Summary
+                      - button "Krish Naik introduces Model Context Protocol (MCP), a new standard for connecting AI applications to external data sources and tools. The video explains how this open-source protocol functions like a universal connector to streamline integrations and reduce custom code maintenance for developers." [ref=e1979]
+                      - text: ·
+                    - button "More" [ref=e1984]:
+                      - generic [ref=e1988]:
+                        - img
+              - generic [ref=e1993]:
+                - link [ref=e1995] [cursor=pointer]:
+                  - /url: /watch?v=TYEqenKrbaM&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e1997] [cursor=pointer]:
+                  - generic [ref=e1998]:
+                    - heading "Right Way To Learn AI In 2025 20 minutes" [level=3] [ref=e2000]:
+                      - link "Right Way To Learn AI In 2025 20 minutes" [ref=e2001]:
+                        - /url: /watch?v=TYEqenKrbaM&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: Right Way To Learn AI In 2025
+                    - generic [ref=e2004]:
+                      - generic [ref=e2005]: 253K views
+                      - generic [ref=e2006]: •11 months ago
+                  - generic [ref=e2007]:
+                    - link "Go to channel Krish Naik" [ref=e2008]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e2009]:
+                      - link "Krish Naik" [ref=e2013]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e2018]
+                  - generic [ref=e2020]:
+                    - text: AI is not a jargon anymore. It is the technology that will derive everything.In this video we will discuss about the entire roadmap ...
+                    - tooltip "tooltip"
+                  - generic [ref=e2023]:
+                    - generic [ref=e2024]:
+                      - generic [ref=e2027]: Summary
+                      - button "Krish Naik outlines a structured roadmap for mastering artificial intelligence, covering fundamental programming languages, machine learning concepts, and advancements in generative and agentic AI. The discussion highlights tailored learning paths for both beginners and experienced professionals looking to transition into the evolving field." [ref=e2028]
+                      - text: ·
+                    - button "More" [ref=e2033]:
+                      - generic [ref=e2037]:
+                        - img
+              - generic [ref=e2042]:
+                - link [ref=e2044] [cursor=pointer]:
+                  - /url: /watch?v=4hgOD8b56VM&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e2046] [cursor=pointer]:
+                  - generic [ref=e2047]:
+                    - heading "The Most Ideal Job Description For An AI Engineer In 2026 16 minutes" [level=3] [ref=e2049]:
+                      - link "The Most Ideal Job Description For An AI Engineer In 2026 16 minutes" [ref=e2050]:
+                        - /url: /watch?v=4hgOD8b56VM&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: The Most Ideal Job Description For An AI Engineer In 2026
+                    - generic [ref=e2053]:
+                      - generic [ref=e2054]: 26K views
+                      - generic [ref=e2055]: •11 days ago
+                  - generic [ref=e2056]:
+                    - link "Go to channel Krish Naik" [ref=e2057]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e2058]:
+                      - link "Krish Naik" [ref=e2062]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e2067]
+                  - generic [ref=e2069]:
+                    - text: Learn from us Visit https://krishnaik.in/liveclasses • Bachelor's or Master's degree in Computer Science, AI/ML, or equivalent ...
+                    - tooltip "tooltip"
+              - generic [ref=e2071]:
+                - link [ref=e2073] [cursor=pointer]:
+                  - /url: /watch?v=uaRKRE8oDZ4&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                - generic [ref=e2075] [cursor=pointer]:
+                  - generic [ref=e2076]:
+                    - heading "AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap 14 minutes, 43 seconds" [level=3] [ref=e2078]:
+                      - link "AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap 14 minutes, 43 seconds" [ref=e2079]:
+                        - /url: /watch?v=uaRKRE8oDZ4&pp=ygUKS3Jpc2ggTmFpa9IHCQkECwGHKiGM7w%3D%3D
+                        - text: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap
+                    - generic [ref=e2082]:
+                      - generic [ref=e2083]: 86K views
+                      - generic [ref=e2084]: •2 months ago
+                  - generic [ref=e2085]:
+                    - link "Go to channel Krish Naik" [ref=e2086]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e2087]:
+                      - link "Krish Naik" [ref=e2091]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e2096]
+                  - generic [ref=e2098]:
+                    - text: "Check out the roadmap: https://www.krishnaik.in/ai-roadmaps Just a day left The Wait Is Over – Learn AI the MODERN Way in ..."
+                    - tooltip "tooltip"
+                  - generic [ref=e2101]:
+                    - generic [ref=e2102]:
+                      - generic [ref=e2105]: Summary
+                      - button "Krish Naik outlines structured learning paths for mastering Data Science, Generative AI, and Agentic AI, categorized by experience level. The interactive roadmap provides direct access to free YouTube playlists, Udemy courses, and comprehensive live bootcamps for hands-on project experience." [ref=e2106]
+                      - text: ·
+                    - button "More" [ref=e2111]:
+                      - generic [ref=e2115]:
+                        - img
+              - generic [ref=e2120] [cursor=pointer]:
+                - link [ref=e2121]:
+                  - /url: /watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+                  - generic [ref=e2133]: 17 videos
+                - generic [ref=e2136]:
+                  - heading "LangChain" [level=3] [ref=e2137]:
+                    - link "LangChain" [ref=e2138]:
+                      - /url: /watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+                  - generic [ref=e2140]:
+                    - group [ref=e2141]:
+                      - link "Krish Naik" [ref=e2144]:
+                        - /url: /@krishnaik06
+                        - text: Krish Naik
+                        - img [ref=e2147]
+                      - generic [ref=e2148]: •
+                      - link "Playlist" [ref=e2151]:
+                        - /url: /@krishnaik06
+                    - group [ref=e2152]
+                    - group [ref=e2153]:
+                      - link "Amazing Langchain Series With End To End Projects- Prerequisites To Start With · 12:29" [ref=e2155]:
+                        - /url: /watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+                    - group [ref=e2156]:
+                      - link "Getting Started With LangChain In 20 Minutes- Build Celebrity Search Application · 43:23" [ref=e2158]:
+                        - /url: /watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+                    - group [ref=e2159]
+                    - group [ref=e2160]:
+                      - link "View full playlist" [ref=e2163]:
+                        - /url: /playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+              - generic [ref=e2165] [cursor=pointer]:
+                - link [ref=e2166]:
+                  - /url: /watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl
+                  - generic [ref=e2178]: 14 videos
+                - generic [ref=e2181]:
+                  - heading "Agentic AI" [level=3] [ref=e2182]:
+                    - link "Agentic AI" [ref=e2183]:
+                      - /url: /watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl
+                  - generic [ref=e2185]:
+                    - group [ref=e2186]:
+                      - link "Krish Naik" [ref=e2189]:
+                        - /url: /@krishnaik06
+                        - text: Krish Naik
+                        - img [ref=e2192]
+                      - generic [ref=e2193]: •
+                      - link "Playlist" [ref=e2196]:
+                        - /url: /@krishnaik06
+                    - group [ref=e2197]
+                    - group [ref=e2198]:
+                      - link "Detailed Prerequisites To Start Learning Agentic AI With Free Videos And Materials · 10:19" [ref=e2200]:
+                        - /url: /watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl
+                    - group [ref=e2201]:
+                      - link "What is Agentic AI? Important For GEN AI In 2025 · 22:36" [ref=e2203]:
+                        - /url: /watch?v=xOS0BhhdUbo&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl
+                    - group [ref=e2204]
+                    - group [ref=e2205]:
+                      - link "View full playlist" [ref=e2208]:
+                        - /url: /playlist?list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl
+              - generic [ref=e2210]:
+                - link [ref=e2212] [cursor=pointer]:
+                  - /url: /watch?v=fVrw8V3iFLc&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                - generic [ref=e2214] [cursor=pointer]:
+                  - generic [ref=e2215]:
+                    - heading "How The AI Agent Deleted Production Database in 9 Seconds 15 minutes" [level=3] [ref=e2217]:
+                      - link "How The AI Agent Deleted Production Database in 9 Seconds 15 minutes" [ref=e2218]:
+                        - /url: /watch?v=fVrw8V3iFLc&pp=ygUKS3Jpc2ggTmFpaw%3D%3D
+                        - text: How The AI Agent Deleted Production Database in 9 Seconds
+                    - generic [ref=e2221]:
+                      - generic [ref=e2222]: 10K views
+                      - generic [ref=e2223]: •2 weeks ago
+                  - generic [ref=e2224]:
+                    - link "Go to channel Krish Naik" [ref=e2225]:
+                      - /url: /@krishnaik06
+                    - generic [ref=e2226]:
+                      - link "Krish Naik" [ref=e2230]:
+                        - /url: /@krishnaik06
+                      - img "Verified" [ref=e2235]
+                  - generic [ref=e2237]:
+                    - text: "https://zenity.io/blog/current-events/ai-agent-database-deletion-pocketos What actually happened, stripped down: A Cursor agent ..."
+                    - tooltip "tooltip"
+  - generic [ref=e2263]:
+    - link "YouTube Video Player":
+      - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C7nMcJyQUaou-OIOSz7sP1L6gkQyd786ihwGZjtrc2RWwkB8QASAAYOXK5YO0DoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGL4oqgAagDBMgDCqoEvgJP0AvyeLOMKN929lKXG2z4dE2NuyUjPcVsbIxIuuc1LPdrmvF0Qawlu9CptI7qsrMuwQuPpzs8cszjbfYE0OXUyc4LLFI83Vxb6mEQq5YXCNg0ksJhXXjqHD0TDHKYaSYetLMjNfjh9vxoKkeRAlPlDOzfeXwxi9x8pejlJ5Wdg11BNIlcKmsIt-BZdeiCLtoPAW4kEoQj-ln8i34339XD2TbPuMWcAhPM0zbLr4jGP666lXQ0VsHFbilQlNjdcUYDS_j-q0UIGCnnabIGXpErrL9PoE0DttA4Um4p12m1XdGVFPGUNcqAXj2Obl_UbpztldcqQAepKXlTbAKn-dLpwQ_V_NONQmabKsXGyB4XnlooRUFWJX42ZHH1BgJTonuGvy6gFMJiTeKsQ1KD0N4bMwLrZSXQ3ECtJZ8upVGIBc36-8FYkgUICBN4i4Dw4AKgBqEBgAfdnfXfApAHBKgH8sCxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLeWpCQmNXTS1ZTDioCAGwCAzSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAQSNmg0jVQFFi42silndSUA2ABmgkwaHR0cHM6Ly9maXJlZmx5LmFkb2JlLmNvbS9nZW5lcmF0ZS9zb3VuZC1lZmZlY3RzsQlVvM7C1m99gMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMCc2nQCxLgCwHSDAIQAdoMJQoKEPCpraWuxc7xXhICAQMaDRjN-vvBWCD91Zm70gVAAUoCEB-aDQESqg0CSU7IDQHSDYQFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyNjEyNjIwMC4zMTcxMzk0NTk7ZGNfdHJrX2FpZD01MDk5NjI4NzM7ZGNfdHJrX2NpZD0xNTk5NDMzMTc7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBN0NqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJemZyN3dWaW9Bb3VBOE9BQ3NBTE50X1BwQTBBN0VKZm51Z0gzV3lxb1FxSHRVVmZ4RjV4eXNpVzU7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDeFpUMm8ydXlLNk1Uczd2MXBvRl9kQUhhNWFyaG5CdEhwU21TRTJ3UWRNb2NVNGk0Ty1JcFVWQkVWOThsdnJiNkRKWkYwVGFoY1VERjMzQTtkY19wdWJpZD02P2h0dHBzOi8vZmlyZWZseS5hZG9iZS5jb20vZ2VuZXJhdGUvc291bmQtZWZmZWN0cz9zZGlkPTMyMlRCSlJZJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZnYWRfc291cmNlPTImZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWUmZ2JyYWlkPTBBQUFBQUJRQ3NRczNKQ2EzOGNYU19OdGxIVVBYNUpiUWWwE4iugiK4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwoIASgBMAA4AUgB0BgB8BgBgBkD&ase=2&gclid=EAIaIQobChMIy-3IpZ3UlAMVA8lzAR1UHyjCEAEYASAAEgKW_vD_BwE&num=1&cid=CAASwwHkaHbkhZ4qbBReLBDyVMsr0sK2sA13ZNIsC_TWG_piYOQLQj5-RKjvwz7SNHJbYpxsZL1LVtGhy3BdVG2cYk5le_7HFq9oStHTuAH_3v_F79b1V-R0ytrabRnmmg3Wvw-7KZ79EMD7qGIkiXOovFpZtupQewSjY_EItP8SOjAjpQ0Kl2E52T_HVU3jTJpi64RzIzkh99F3escTxE3sqQNIDP903378GPyqeBkO0uO0OXIuuhusjPTBwJPxPuNkMvPYUvc&ad_cpn=%5BCPN%5D&sig=AOD64_2QRiQ44JSAnaARhiYyDPqa0JjT3w&ctype=110&video_id=yjBBcWM-YL8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=21&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+      - generic [ref=e2264] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - img
+      - generic "YouTube Video Player" [ref=e2269] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic [ref=e2271]:
+              - button "Unmute" [ref=e2276] [cursor=pointer]:
+                - generic [ref=e2280]:
+                  - img
+              - button "No captions are available for this video" [ref=e2285] [cursor=pointer]
+            - generic:
+              - generic "Time elapsed 0:00":
+                - generic:
+                  - generic: 0:00
